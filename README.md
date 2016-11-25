@@ -1,2 +1,2 @@
-# KNUCapstone17
-2017 Capstone Design - Kyungpook Natonal University
+#종합설계프로젝트
+Capstone Design 2017 
